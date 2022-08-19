@@ -2,6 +2,8 @@
 >This repository contains the source code for the models used in the following paper:
 >(Fill Research Paper Publication link when available)
 
+> This project was created during Summer of 2022
+
 ## Background
 This parser aims to convert extracted information from social media into training data for the chatbot model. 
 
